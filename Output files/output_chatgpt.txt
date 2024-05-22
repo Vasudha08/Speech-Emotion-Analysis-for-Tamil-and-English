@@ -1,0 +1,30 @@
+Text: sometimes I feel like there's just no point in trying any everything seems so overwhelming and it's like I am stuck in this never ending loop of negativity I can find the energy to do things I used to EN it's hard to explain but it's like the colour has drained out of the even talking about it now I feel like I'm burning you with my problem I am sorry for being such a dinner 
+
+remorse: 0.551969051
+sadness: 0.335362464
+disappointment: 0.066797175
+caring: 0.015631555
+realization: 0.008085917
+anger: 0.004594150
+grief: 0.004157623
+annoyance: 0.002791436
+embarrassment: 0.002511454
+love: 0.001487333
+disapproval: 0.001327167
+disgust: 0.000915203
+approval: 0.000672368
+gratitude: 0.000523693
+fear: 0.000500364
+optimism: 0.000398999
+neutral: 0.000343900
+pride: 0.000306886
+amusement: 0.000274138
+admiration: 0.000232289
+desire: 0.000220693
+confusion: 0.000178901
+nervousness: 0.000166168
+joy: 0.000151119
+curiosity: 0.000136786
+relief: 0.000126501
+surprise: 0.000079395
+excitement: 0.000057328

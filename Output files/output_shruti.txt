@@ -1,0 +1,30 @@
+Text: I am a college student right now and everyday is going like the same without anything special happen and I feel very bored and I don't know what to do also from deeper point of view if I see I feel like my life is going smoothly but when closely into a single event I feel it's not something that gives me happiness it's just happening and other people think that my life is happy and whatever they don't seem to care about what's happening to me really I feel like my life is just meaningless and I don't see the point of Living I don't know what's the point of living right now I should live and see what's going to happen for a few more days else else if it's the same things happening again then what's the point of Living 
+
+realization: 0.623833477
+joy: 0.134397253
+confusion: 0.067665495
+disapproval: 0.062842980
+disappointment: 0.021177541
+relief: 0.019234959
+amusement: 0.011954190
+love: 0.009810174
+approval: 0.008537634
+pride: 0.006702730
+embarrassment: 0.004817197
+gratitude: 0.004287878
+neutral: 0.003983928
+disgust: 0.003912389
+admiration: 0.003208956
+sadness: 0.001972822
+optimism: 0.001844140
+surprise: 0.001836778
+grief: 0.001766974
+annoyance: 0.001725079
+fear: 0.000919532
+nervousness: 0.000917420
+remorse: 0.000904684
+curiosity: 0.000517851
+desire: 0.000331884
+caring: 0.000331208
+excitement: 0.000283584
+anger: 0.000281250

@@ -1,0 +1,30 @@
+Text: my name is Govind Dev lately I am getting this feeling that whatever I do I find no meaning in it so it ultimately leads to me not doing anything I am just like I am getting the ceiling the what's the point of doing all this terms so this is affecting my daily life and I think I should really work on it and I need help 
+
+realization: 0.929150224
+sadness: 0.028886255
+disappointment: 0.022061903
+approval: 0.009836677
+neutral: 0.001880785
+remorse: 0.001781622
+nervousness: 0.001113509
+love: 0.000822227
+embarrassment: 0.000747340
+annoyance: 0.000537407
+optimism: 0.000416184
+caring: 0.000408174
+joy: 0.000377226
+confusion: 0.000268550
+surprise: 0.000257871
+desire: 0.000217764
+fear: 0.000211059
+disapproval: 0.000209343
+pride: 0.000151590
+grief: 0.000138721
+relief: 0.000110252
+disgust: 0.000085821
+amusement: 0.000080180
+excitement: 0.000079344
+admiration: 0.000059676
+anger: 0.000043010
+curiosity: 0.000038899
+gratitude: 0.000028256

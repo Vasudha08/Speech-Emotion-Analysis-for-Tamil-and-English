@@ -1,0 +1,35 @@
+Tamil Text:
+மற்ற படங்களைப் பற்றிய செய்திகள் எதுவும் வெளி 
+
+English Translation:
+No news about other pictures
+
+Emotion Analysis:
+neutral: 0.9960
+approval: 0.0021
+admiration: 0.0006
+amusement: 0.0003
+curiosity: 0.0002
+annoyance: 0.0002
+gratitude: 0.0001
+joy: 0.0001
+optimism: 0.0001
+confusion: 0.0001
+disappointment: 0.0001
+excitement: 0.0000
+disapproval: 0.0000
+realization: 0.0000
+disgust: 0.0000
+desire: 0.0000
+caring: 0.0000
+sadness: 0.0000
+anger: 0.0000
+love: 0.0000
+surprise: 0.0000
+remorse: 0.0000
+fear: 0.0000
+relief: 0.0000
+nervousness: 0.0000
+pride: 0.0000
+grief: 0.0000
+embarrassment: 0.0000

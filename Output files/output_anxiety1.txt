@@ -1,0 +1,30 @@
+Text: hi I am he actually I feel more nervous that's why I comfort to get your nowadays for the past 5 months really I am excessively bring about even was a small matters you know and I anticipate any worst things may happen to me or my family or my and also because of that you know I avoid even driving nowadays the fear that something happened to us by accident something may happen so that feel I get and annually I am getting that and even even if anyone raise the voice really become really a man should you know I am little bit nervous nowadays for the past five months really my sleep to get versioning I am not have a good proper sound sleep even I get even for the small sounds you know I get irritated I think the sensitivity has increased I can feel the perception more of the sound even for little sound I get irritated and on sometimes on hearing sudden sound also I get started the sucking only for the past 5 months I don't know why I am getting such a fear of each and everything everything I am getting fear for each and everything for any event supposed to be happen for each and everything I get a fear you know and most of the time I feel giddiness and also palpitation I have my heart it is are increased you know and sometime I have like terms of hands like shaking and splitting of palms and foot and also sometimes like I feel tingling sensation on the feet of butterflies from the abdominal these things I get only for the past five months and also sometimes I feel chest discomfort like a breath so these are very new to me and I am getting more nervous get more fear that something may happen to me some illness may happen to me or I need dear sorry I may die because of the fear I mean I mean because of the fear of my physical element and because I am me to experience the same thing but my father died because of that and we came to know later that because of cancer abdominal pain I am getting fear of that about the death either myself will be decreased me to make it the cancer so the fear of death note that I get the past 5 months fear of death really help me to overcome from it thank 
+
+fear: 0.888951838
+nervousness: 0.048899673
+gratitude: 0.024379008
+sadness: 0.015446031
+grief: 0.008474489
+disappointment: 0.003124007
+confusion: 0.002027794
+remorse: 0.001430942
+love: 0.001197546
+relief: 0.001115238
+caring: 0.001040731
+realization: 0.000600744
+anger: 0.000587605
+pride: 0.000316188
+annoyance: 0.000304422
+excitement: 0.000271828
+desire: 0.000261337
+embarrassment: 0.000210072
+disgust: 0.000205561
+surprise: 0.000189613
+disapproval: 0.000182072
+curiosity: 0.000161387
+amusement: 0.000152555
+optimism: 0.000144751
+neutral: 0.000099678
+approval: 0.000081807
+joy: 0.000080777
+admiration: 0.000062286
