@@ -31,3 +31,8 @@ The system analyzes and interprets the emotional content of audio messages from 
 
 ### User Interface
 The "Med Vitals" app features a simple, user-friendly interface. Users can upload audio files, submit them for analysis, and view detailed reports. This streamlined interface ensures a smooth user experience, facilitating mental health support and intervention.
+
+### Architecture
+
+![image](https://github.com/Vasudha08/Speech-Emotion-Analysis-for-Tamil-and-English/assets/105427446/2c575c9c-fb2e-456a-8f91-71ecf2da4c85)
+
